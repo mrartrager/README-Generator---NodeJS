@@ -1,4 +1,4 @@
-# TEST
+# README Generator (Using node) 
 
   ## Table of Contents 
   - [Description](#description)
@@ -9,20 +9,20 @@
   - [License](#license) 
 
   ## Description
-  TEST
+  For this assingment we had to generate a README file using javascript and node.js This is just the project readme file and not the one used to show how the program works.
 
   ## Installation 
-  TEST
+  Make sure to have node js installed and use inquirer version 8.2.4
 
   ## Usage 
-  TEST
+  N/A
 
   ## Contribution 
-  TEST
+  N/A
 
   ## Questions 
-  -Github: [TSET] (https://github.com/TSET)
-  -Email: [TESTSETSTES] (Email: TESTSETSTES)
+  -Github: [mrartrager] (https://github.com/mrartrager)
+  -Email: [matthew.d.waldron@gmail.com] (Email: matthew.d.waldron@gmail.com)
 
   ## License
   MIT, 
