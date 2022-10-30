@@ -1,28 +1,30 @@
-# erttre
+# Node JS README GENERATOR
 
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#Contribution)
-  - [Questions](#Questions)
-  - [License](#License) 
+  - [Contribution](#contribution)
+  - [Questions](#questions)
+  - [License](#license) 
 
   ## Description
-  ert
+  I made this so i can use this for future README.md files
 
   ## Installation 
-  ertert
+  N/A
 
   ## Usage 
-  re
+  Make sure you have nod js installed and use inquier 8.2.4
 
   ## Contribution 
-  ertetre
+  N/A
 
   ## Questions 
-  -Github: [erte] (https:.//github.com/erte)
-  -Email: [ertert] (Email: ertert)
+  -Github: [mrartrager] (https://github.com/mrartrager)
+  -Email: [matthew.d.waldron@gmail.com] (Email: matthew.d.waldron@gmail.com)
 
   ## License
-  MIT, [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  MIT, 
+  - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  - 
